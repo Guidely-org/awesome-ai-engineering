@@ -1,6 +1,7 @@
 # Awesome AI Engineering [WIP]
 
 A curated list of truly awesome AI engineering learning resources, frameworks and libraries.
+Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## 📘 Table of contents
 
@@ -175,7 +176,7 @@ A curated list of truly awesome AI engineering learning resources, frameworks an
 
 ## I love this! How can I thank the authors?
 
-Please star this repo. You can also follow up.
+Please star this repo. You can also follow us.
 
 - [Guidely on Linkedin](https://www.linkedin.com/company/guidely-ai-guides/)
 - [Guidely on X](https://x.com/GuidelyAIGuides)
