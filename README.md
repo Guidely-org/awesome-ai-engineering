@@ -1,4 +1,4 @@
-# Awesome AI Engineering [WIP]
+# Awesome AI Engineering
 
 A curated list of truly awesome AI engineering learning resources, frameworks and libraries.
 Inspired by [awesome-python](https://github.com/vinta/awesome-python).
