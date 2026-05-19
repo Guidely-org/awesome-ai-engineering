@@ -158,6 +158,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ### Observability
 
+- [agenttrace](https://github.com/luoyuctl/agenttrace)
 - [LangFuse](https://github.com/langfuse/langfuse)
 - [Opik](https://github.com/comet-ml/opik)
 
