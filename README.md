@@ -148,6 +148,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [CrewAI](https://www.crewai.com/)
 - [Haystack](https://haystack.deepset.ai/)
 - [Pydantic AI](https://ai.pydantic.dev/)
+- [rust-norion](https://github.com/yanghao1143/rust-norion)
 - [n8n](https://n8n.io/)
 
 ### Evaluation frameworks
