@@ -85,6 +85,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - [LLM Course - Hugging Face](https://huggingface.co/learn/llm-course/en/chapter1/1)
 - [LLMs Explained – Andrej Karpathy](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
+- [AI Engineer Notebooks](https://github.com/calmrocks/ai-engineer-notebooks) - Framework-free, runnable Colab notebooks for the AI-engineer stack (RAG, evals, agents, serving) on the free Groq API
 
 ### Prompt engineering
 
