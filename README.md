@@ -94,6 +94,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ### Retreival Augmented Generation
 
+- [RAG + Knowledge Graph Master Course - Addy](https://www.thequery.in/books/rag-kg-master-course) (free book, HTML and EPUB)
 - [Build a Retrieval Augmented Generation (RAG) App - LangChain](https://python.langchain.com/docs/tutorials/rag/?utm_source=chatgpt.com)
 - [Short-term memory - LangChain](https://docs.langchain.com/oss/python/langchain/short-term-memory)
 - [Long-term memory - LangChain](https://docs.langchain.com/oss/python/langchain/long-term-memory)
