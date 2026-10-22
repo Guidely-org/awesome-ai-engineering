@@ -121,6 +121,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ### Deploying AI to Production
 
+- [Forward Deployed Engineer Field Guide](https://github.com/Bosheng2020/fde-field-guide)
 - [Free Made with ML Course](https://madewithml.com/#course)
 - [LLM Inference Handbook](https://bentoml.com/llm/)
 - [Mater Production AI](https://www.decodingai.com/p/free-courses)
