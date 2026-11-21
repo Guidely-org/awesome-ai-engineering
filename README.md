@@ -103,6 +103,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 - [Building Effective AI Agents - Anthropic](https://www.anthropic.com/engineering/building-effective-agents)
 - [LangChain Essentials](https://academy.langchain.com/courses/langchain-essentials-python)
 - [AI Agents Course - Hugging Face](https://huggingface.co/learn/agents-course/en/unit0/introduction)
+- [Forward Deployed AI Engineer self-study roadmap - Datamarcos](https://github.com/datamarcos-official/fde-roadmap)
+- [Agentic AI roadmap (2026) - Datamarcos](https://www.datamarcos.com/guides/agentic-ai-roadmap)
 
 ### MCP
 
